@@ -5,10 +5,19 @@
     <link>https://FilloSov.github.io/tags/</link>
     <description>Recent content in Tags on La Tana dello Scriba</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 16 May 2020 11:43:11 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 19:16:26 +0200</lastBuildDate>
     
 	<atom:link href="https://FilloSov.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lo Scrittoio</title>
+      <link>https://FilloSov.github.io/tags/lo-scrittoio/</link>
+      <pubDate>Fri, 22 May 2020 19:16:26 +0200</pubDate>
+      
+      <guid>https://FilloSov.github.io/tags/lo-scrittoio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>La Libreria</title>
@@ -16,15 +25,6 @@
       <pubDate>Sat, 16 May 2020 11:43:11 +0200</pubDate>
       
       <guid>https://FilloSov.github.io/tags/la-libreria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lo Scrittoio</title>
-      <link>https://FilloSov.github.io/tags/lo-scrittoio/</link>
-      <pubDate>Sat, 16 May 2020 10:45:37 +0200</pubDate>
-      
-      <guid>https://FilloSov.github.io/tags/lo-scrittoio/</guid>
       <description></description>
     </item>
     
