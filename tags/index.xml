@@ -5,10 +5,19 @@
     <link>https://FilloSov.github.io/tags/</link>
     <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 23 May 2020 11:49:23 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2020 17:53:44 +0200</lastBuildDate>
     
 	<atom:link href="https://FilloSov.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>La Libreria</title>
+      <link>https://FilloSov.github.io/tags/la-libreria/</link>
+      <pubDate>Tue, 02 Jun 2020 17:53:44 +0200</pubDate>
+      
+      <guid>https://FilloSov.github.io/tags/la-libreria/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lo Scrittoio</title>
@@ -16,15 +25,6 @@
       <pubDate>Sat, 23 May 2020 11:49:23 +0200</pubDate>
       
       <guid>https://FilloSov.github.io/tags/lo-scrittoio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>La Libreria</title>
-      <link>https://FilloSov.github.io/tags/la-libreria/</link>
-      <pubDate>Sat, 16 May 2020 11:43:11 +0200</pubDate>
-      
-      <guid>https://FilloSov.github.io/tags/la-libreria/</guid>
       <description></description>
     </item>
     
