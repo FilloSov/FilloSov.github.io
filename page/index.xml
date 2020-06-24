@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Home</title>
-    <link>https://FilloSov.github.io/page/</link>
+    <link>https://latanadelloscriba.it/page/</link>
     <description>Recent content in Pages on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 17 May 2020 12:50:00 +0200</lastBuildDate>
     
-	<atom:link href="https://FilloSov.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://latanadelloscriba.it/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Trovami</title>
-      <link>https://FilloSov.github.io/page/link/</link>
+      <link>https://latanadelloscriba.it/page/link/</link>
       <pubDate>Sun, 17 May 2020 12:50:00 +0200</pubDate>
       
-      <guid>https://FilloSov.github.io/page/link/</guid>
+      <guid>https://latanadelloscriba.it/page/link/</guid>
       <description>Qua ci sono tutti i luoghi in cui puoi torvarmi, elencati in ordine, con una piccola descrizione per ognuno.
 So che per molti sono sufficienti le piccole icone da cliccare a fondo pagina, ma non per me. Non del tutto, almeno.
 Questa piccola sezione nasce per farvi avere anche qualcosa di più, qualcosa che ci permetta di capire dove sono e perchè.
@@ -24,14 +24,23 @@ Ora, devo solo imparare a inglobare i link.</description>
     
     <item>
       <title>Chi Sono</title>
-      <link>https://FilloSov.github.io/page/about/</link>
+      <link>https://latanadelloscriba.it/page/about/</link>
       <pubDate>Sat, 16 May 2020 10:45:06 +0200</pubDate>
       
-      <guid>https://FilloSov.github.io/page/about/</guid>
+      <guid>https://latanadelloscriba.it/page/about/</guid>
       <description>C&amp;rsquo;è poco da dire, in verità.
 Questo sito nasce per portare un po&amp;rsquo; in rete quello che sono. Nasce per avere uno spazio tutto mio, che non dipenda dalle mode del momento, che possa custodire come più mi piace.
 Nasce per parlare di lettura e di scrittura, che insieme contribuiscono a formare quello che, semplificando, noi tutti chiamiamo vita. Siete i benvenuti nella Tana dello Scriba.
 Potete trovare recensioni di libri, racconti e molto altro.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://latanadelloscriba.it/page/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://latanadelloscriba.it/page/privacy/</guid>
+      <description>Questo sito non utilizza i dati degli utenti, nè fa uso di Cookies.</description>
     </item>
     
   </channel>

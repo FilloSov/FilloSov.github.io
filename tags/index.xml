@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Home</title>
-    <link>https://FilloSov.github.io/tags/</link>
+    <link>https://latanadelloscriba.it/tags/</link>
     <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 18 Jun 2020 16:10:28 +0200</lastBuildDate>
     
-	<atom:link href="https://FilloSov.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://latanadelloscriba.it/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lo Scrittoio</title>
-      <link>https://FilloSov.github.io/tags/lo-scrittoio/</link>
+      <link>https://latanadelloscriba.it/tags/lo-scrittoio/</link>
       <pubDate>Thu, 18 Jun 2020 16:10:28 +0200</pubDate>
       
-      <guid>https://FilloSov.github.io/tags/lo-scrittoio/</guid>
+      <guid>https://latanadelloscriba.it/tags/lo-scrittoio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La Libreria</title>
-      <link>https://FilloSov.github.io/tags/la-libreria/</link>
+      <link>https://latanadelloscriba.it/tags/la-libreria/</link>
       <pubDate>Sat, 13 Jun 2020 19:13:25 +0200</pubDate>
       
-      <guid>https://FilloSov.github.io/tags/la-libreria/</guid>
+      <guid>https://latanadelloscriba.it/tags/la-libreria/</guid>
       <description></description>
     </item>
     
