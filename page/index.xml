@@ -5,6 +5,8 @@
     <link>https://latanadelloscriba.it/page/</link>
     <description>Recent content in Pages on Home</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@latanadelloscriba.it (Filippo Cumoli)</managingEditor>
+    <webMaster>info@latanadelloscriba.it (Filippo Cumoli)</webMaster>
     <lastBuildDate>Sun, 17 May 2020 12:50:00 +0200</lastBuildDate>
     
 	<atom:link href="https://latanadelloscriba.it/page/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +16,7 @@
       <title>Trovami</title>
       <link>https://latanadelloscriba.it/page/link/</link>
       <pubDate>Sun, 17 May 2020 12:50:00 +0200</pubDate>
-      
+      <author>info@latanadelloscriba.it (Filippo Cumoli)</author>
       <guid>https://latanadelloscriba.it/page/link/</guid>
       <description>Qua ci sono tutti i luoghi in cui puoi torvarmi, elencati in ordine, con una piccola descrizione per ognuno.
 So che per molti sono sufficienti le piccole icone da cliccare a fondo pagina, ma non per me. Non del tutto, almeno.
@@ -26,7 +28,7 @@ Ora, devo solo imparare a inglobare i link.</description>
       <title>Chi Sono</title>
       <link>https://latanadelloscriba.it/page/about/</link>
       <pubDate>Sat, 16 May 2020 10:45:06 +0200</pubDate>
-      
+      <author>info@latanadelloscriba.it (Filippo Cumoli)</author>
       <guid>https://latanadelloscriba.it/page/about/</guid>
       <description>C&amp;rsquo;è poco da dire, in verità.
 Questo sito nasce per portare un po&amp;rsquo; in rete quello che sono. Nasce per avere uno spazio tutto mio, che non dipenda dalle mode del momento, che possa custodire come più mi piace.
@@ -35,12 +37,15 @@ Potete trovare recensioni di libri, racconti e molto altro.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Privacy</title>
       <link>https://latanadelloscriba.it/page/privacy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sat, 16 May 2020 10:45:06 +0200</pubDate>
+      <author>info@latanadelloscriba.it (Filippo Cumoli)</author>
       <guid>https://latanadelloscriba.it/page/privacy/</guid>
-      <description>Questo sito non utilizza i dati degli utenti, nè fa uso di Cookies.</description>
+      <description>Questo sito non utilizza i dati degli utenti, nè fa uso di Cookies. Cosa significa questo?
+Io rinuncio in pratica a sapere molto, di voi. Con gli analytics senza cookies e con anonimizzazione degli ip otterrò delle stime pessime riguardo al traffico.
+Comunque, meglio di niente.
+Ho tolto a Google (gli analytics a cui mi appoggio) la possibilità di utilizzare e/o salvare tutti i vostri cookies. Ho seguito il procedimento che potete trovare qua.</description>
     </item>
     
   </channel>

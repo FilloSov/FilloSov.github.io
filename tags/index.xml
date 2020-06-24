@@ -5,6 +5,8 @@
     <link>https://latanadelloscriba.it/tags/</link>
     <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>info@latanadelloscriba.it (Filippo Cumoli)</managingEditor>
+    <webMaster>info@latanadelloscriba.it (Filippo Cumoli)</webMaster>
     <lastBuildDate>Thu, 18 Jun 2020 16:10:28 +0200</lastBuildDate>
     
 	<atom:link href="https://latanadelloscriba.it/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -14,7 +16,7 @@
       <title>Lo Scrittoio</title>
       <link>https://latanadelloscriba.it/tags/lo-scrittoio/</link>
       <pubDate>Thu, 18 Jun 2020 16:10:28 +0200</pubDate>
-      
+      <author>info@latanadelloscriba.it (Filippo Cumoli)</author>
       <guid>https://latanadelloscriba.it/tags/lo-scrittoio/</guid>
       <description></description>
     </item>
@@ -23,7 +25,7 @@
       <title>La Libreria</title>
       <link>https://latanadelloscriba.it/tags/la-libreria/</link>
       <pubDate>Sat, 13 Jun 2020 19:13:25 +0200</pubDate>
-      
+      <author>info@latanadelloscriba.it (Filippo Cumoli)</author>
       <guid>https://latanadelloscriba.it/tags/la-libreria/</guid>
       <description></description>
     </item>
